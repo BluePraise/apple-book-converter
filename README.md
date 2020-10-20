@@ -1,6 +1,13 @@
 # AppleBookConverter
 
+I made a calculator to help me track my status in Goodreads. It's simply a % calculator, I know. But I am not good at math and that's why I made it. Additionally, it also helps me with get familiar with Angular instead of making awful To-Do apps in Udemy courses. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
+
+Todo: 
+- Fix the result toggle
+- Make a connection to Goodreads API.
+
 
 ## Development server
 
